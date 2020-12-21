@@ -28,7 +28,7 @@ app.use("/home",homeRouter);
 
 
 
-app.listen(3060,()=>{
+app.listen(3000,()=>{
     console.log("allusion(false)-started....");
 });
 
